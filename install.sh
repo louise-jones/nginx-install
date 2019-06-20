@@ -1,5 +1,5 @@
 #!/bin/bash
-# Golang-Install
+# nginx-Install
 # Project Home Page:
 # https://github.com/louise-jones/nginx-install
 #
