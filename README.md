@@ -34,6 +34,16 @@ wget https://raw.githubusercontent.com/louise-jones/nginx-install/master/install
 * CentOS 7可选择编译安装或二进制安装。
 * 编译安装通常10分钟左右，二进制安装通常2分钟左右。
 
+如果你给脚本可执行权限，可再次执行。 
+```sh
+# 添加可执行权限
+$ chmod +x install.sh   
+
+# 执行
+$ ./install.sh
+
+```
+
 ### 常用命令
 安装完成后执行命令 `source /etc/profile` 让环境变量立即生效，或重新打开终端。
 * 启动nginx：`nginx`
